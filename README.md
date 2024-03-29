@@ -3,7 +3,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 
 ![Preview](preview.jpg)
 
-## Live links (replace with your own)
+## Live links 
 - Leaflet Map (https://isaiah-kessler.github.io/Senior-Project-2024/)
 - Google Sheets template (https://docs.google.com/spreadsheets/d/1DuUePAJjmAxo59aTxnUxNcyx2u3lsghUo6dEUEv0XUE/edit#gid=164271551)
 
